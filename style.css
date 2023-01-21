@@ -109,7 +109,7 @@ body{
 
 
 .logo{
-    height: 30px;
+    height: 40px;
 }
 @media screen and (max-width: 768px) {
     .logo {
